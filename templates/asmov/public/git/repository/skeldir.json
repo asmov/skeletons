@@ -1,0 +1,8 @@
+{
+    "variables": {
+        "COMPANY": "",
+        "YEAR": "",
+        "TITLE": "",
+        "ONELINE_DESCRIPTION": ""
+    }
+}
