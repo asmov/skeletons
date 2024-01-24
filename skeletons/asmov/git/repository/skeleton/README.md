@@ -1,4 +1,4 @@
-%{TITLE%}
+%{TITLE}%
 ================================================================================
 
 %{ONELINE_DESCRIPTION}%
@@ -25,7 +25,7 @@ Structure
 License (GPL 3)
 --------------------------------------------------------------------------------
 %{TITLE}%: %{ONELINE_DESCRIPTION}%  
-Copyright (C) %{YEAR}% %{COMPANY}% 
+Copyright (C) %{YEAR}% %{ORG}% 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

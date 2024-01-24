@@ -1,5 +1,5 @@
-Asmov Dewdrop: Organize, standardize, and provision an empowered Linux desktop workplace
-Copyright (C) 2024 Asmov LLC
+%{TITLE}%: %{ONELINE_DESCRIPTION}%
+Copyright (C) %{YEAR}% %{ORG}%
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
