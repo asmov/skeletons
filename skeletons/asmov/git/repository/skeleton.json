@@ -1,6 +1,6 @@
 {
     "variables": {
-        "COMPANY": "",
+        "ORG": "",
         "YEAR": "",
         "TITLE": "",
         "ONELINE_DESCRIPTION": ""
